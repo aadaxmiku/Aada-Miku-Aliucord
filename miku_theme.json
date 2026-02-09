@@ -6,11 +6,11 @@
   },
 
   "fonts": {
-    "custom": "assets/miku_font.ttf"
+    "custom": "https://raw.githubusercontent.com/aadaxmiku/Aada-Miku-Aliucord/refs/heads/main/miku_font.ttf"
   },
 
   "background": {
-    "image": "assets/miku_bg.jpg",
+    "image": "https://raw.githubusercontent.com/aadaxmiku/Aada-Miku-Aliucord/refs/heads/main/miku_bg.jpg",
     "blur": 8,
     "opacity": 0.85
   },
