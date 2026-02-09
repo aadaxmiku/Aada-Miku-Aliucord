@@ -1,0 +1,29 @@
+{
+  "manifest": {
+    "name": "Aada Miku Dream",
+    "author": "Aada x Disha",
+    "version": "1.0"
+  },
+
+  "fonts": {
+    "custom": "assets/miku_font.ttf"
+  },
+
+  "background": {
+    "image": "assets/miku_bg.jpg",
+    "blur": 8,
+    "opacity": 0.85
+  },
+
+  "colors": {
+    "primary": "#39c5bb",
+    "accent": "#66fff2",
+    "background": "#0b0e14",
+    "text": "#e0ffff",
+    "link": "#00e5ff",
+    "mention": "#00ffcc",
+    "message": "#10232b",
+    "header": "#08161c",
+    "input": "#0f2a33"
+  }
+}
